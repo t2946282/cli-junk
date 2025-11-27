@@ -27,6 +27,10 @@ This tool creates a static HTML index.html document with thumbnail images from d
 - Prefer functional programming approach
 - Comment the code shortly
 
+## Boundaries
+- **Ask first:** Before modifying existing markdown files
+- **Never do:** Edit config files, commit secrets
+
 ## Application requirements
 
 - Must be a single file Bash script for Linux
