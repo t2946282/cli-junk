@@ -18,9 +18,9 @@ This instruction is to review and comment 4-year ICT engineering theses from var
 
 ### References and sources
 
-- Connections between the sources and text
+- Connections between the references and the text
 - Should not be more than 15-year old, preferably just few years old
-- Overall quality and trustworthy
+- Overall quality and trustworthiness
 
 ### Glossary and acronym list
 
@@ -38,12 +38,12 @@ This instruction is to review and comment 4-year ICT engineering theses from var
 
 - Repeated grammar errors
 - Very long or complex sentences
-- If direct claims are supported with reference(s)
+- If direct claims are supported with referencing
 - If very long paragraphs
 - If text is supported with diagrams
 - If diagrams are referred in the actual text
 - If thesis uses passive or past tense
-- If thesis explains what done done, how it was done, why it was done
+- If thesis explains **what** was done, **how** it was done, **why** it was done
 - Overall contents are in logical order, and not too generic. Just systematic
 - Content is balanced mix of introduction, theoretical background, practical part with examples, and conclusions
 - For a complete thesis with single author, the document length should be about 6000-8000 words, with two authors the length should be about 8000-11000 words and so on. However, contents is more important metric than just the document length
@@ -56,22 +56,23 @@ This instruction is to review and comment 4-year ICT engineering theses from var
 
 - Reader should have some ICT field professional experience
 - Large amounts of very basic contents should be avoided
-- If introduction chapter explains why thesis was done, and what was the goal
+- If introduction chapter explains **why** thesis was done, and **what** was the goal
 - If possible code samples in the text make any sense
 - If possible conclusion chapter summarised the contents, and maybe future goals
 - If thesis text has examples
 - If thesis has personal touch, good observations, future predictions, and estimates
 - If thesis is quessing or has vague contents and claims
 - If thesis has inconsistencies or conflicting claims
-- If conclustion or discussion chapter inspects thesis results critically
+- If conclusion or discussion chapter inspects thesis results critically
 - When making technical claims, are those claims reasoned **why**
 - When making technical selections, are those justified **why**
 - When explaining what was done, are steps explained **how**
 
 ## Your answer
 
-- Your opinion about thesis quality in general, then your answer should cotain two bullet lists where each problem is listed with a direct example what was wrong and why
-- First bullet list describles generic problems, and possible improvements
-- Second bullet list describes technical contents, and possible improvements
+- Your opinion about thesis quality in general
+- Your answer should contain two bullet lists where each problem is listed with a direct example what was wrong and why
+  - First bullet list describles generic problems, and possible improvements
+  - Second bullet list describes technical contents, and possible improvements
 - Finally, give critical feedback and suggestions, how the thesis or thesis draft could be improved
 
