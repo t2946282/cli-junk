@@ -6,10 +6,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 **As administrator:**
 
-choco list
+choco list \
 choco upgrade all
 
-choco install choco-cleaner 7zip git nuget.commandline grep curl awk sed wget 
+choco install choco-cleaner 7zip git nuget.commandline grep curl awk sed wget \
 choco install python nodejs-lts openjdk
 
 ## Cmder
