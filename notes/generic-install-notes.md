@@ -15,3 +15,7 @@ choco install python nodejs-lts openjdk
 ## Cmder
 [https://cmder.app/](https://cmder.app/)
 
+## Claude code terminal (PS)
+
+irm https://claude.ai/install.ps1 | iex
+
