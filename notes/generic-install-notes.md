@@ -12,10 +12,23 @@ choco upgrade all
 choco install choco-cleaner 7zip git nuget.commandline grep curl awk sed wget \
 choco install python nodejs-lts openjdk
 
-## Cmder
-[https://cmder.app/](https://cmder.app/)
-
 ## Claude code terminal (PS)
 
 irm https://claude.ai/install.ps1 | iex
 
+## Others
+
+- Brave
+- Chrome
+- BrowseRouter
+- FanControl
+- Windows Terminal
+- Cmder
+- Vscode
+- Discord
+- Telegram
+- OBS
+- Claude
+- Onedrive
+- Teams
+- Zoom
